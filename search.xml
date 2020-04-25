@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>杂</title>
-    <url>/mix/</url>
-    <content><![CDATA[<p>不知道怎么讲话了</p>
-<p>回看起来，自己都感到奇怪</p>
-<p>是应该好好想想</p>
+    <title>测试</title>
+    <url>/my-test-draft/</url>
+    <content><![CDATA[<p>这是我的第一次尝试 </p>
+<a id="more"></a>
+<p>电影星际探索——碎片记忆<br>安静，孤独，配乐</p>
+<p>抵达火星后，长廊的光影，很blade runner 2049</p>
+<p>最后的再次相聚，触不可及的那个场景</p>
+<p>微小太空灾难的</p>
 ]]></content>
+      <categories>
+        <category>随记</category>
+      </categories>
   </entry>
   <entry>
     <title>About Me</title>
@@ -70,19 +76,5 @@
       <tags>
         <tag>About</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/my-test-draft/</url>
-    <content><![CDATA[<p>这是我的第一次尝试 </p>
-<a id="more"></a>
-<p>电影星际探索——碎片记忆<br>安静，孤独，配乐</p>
-<p>抵达火星后，长廊的光影，很blade runner 2049</p>
-<p>最后的再次相聚，触不可及的那个场景</p>
-<p>微小太空灾难的</p>
-]]></content>
-      <categories>
-        <category>随记</category>
-      </categories>
   </entry>
 </search>
